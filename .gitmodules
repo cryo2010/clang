@@ -1,0 +1,3 @@
+[submodule "tools/clang-tools-extra"]
+	path = tools/clang-tools-extra
+	url = https://github.com/llvm-mirror/clang-tools-extra.git
